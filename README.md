@@ -219,7 +219,7 @@ Potential features for future development:
 
 ## Contributing
 
-This project is maintained by Abhishek Kumar.
+This project is maintained by Ayush Kumar.
 
 ## License
 
